@@ -11,7 +11,7 @@ A powerful OSINT (Open-Source Intelligence) tool for searching usernames across 
 - [Overview](#-overview)
 - [Features](#-features)
 - [Importance in OSINT & Cybersecurity](#-importance-in-osint--cybersecurity)
-- [Installation](#-installation)
+- [Installation](#-installation) 
 - [Usage](#-usage)
 - [Platforms Supported](#-platforms-supported)
 - [Google Dorking](#-google-dorking)
@@ -94,6 +94,13 @@ The Unified Social Search Engine is a comprehensive tool designed for digital in
 
 **Install dependencies**:
 
+https://gist.github.com/techenthusiast167/c8de440b76c72e3b4ba73ffdf2110344
+
+pip install requests beautifulsoup4 selenium webdriver-manager openai pillow
+
+For ChromeDriver issues, you might need to install Chrome browser:
+
+Linux: sudo apt-get install google-chrome-stable
 - - - 
 
 **Run the application**:
