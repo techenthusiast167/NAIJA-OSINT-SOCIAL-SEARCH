@@ -92,15 +92,21 @@ The Unified Social Search Engine is a comprehensive tool designed for digital in
 
 ### Step-by-Step Installation
 
-**Install dependencies**:
+**Manual Installation**:
 
-https://gist.github.com/techenthusiast167/c8de440b76c72e3b4ba73ffdf2110344
+- Follow the link below, copy and install the tool script manually:
 
-pip install requests beautifulsoup4 selenium webdriver-manager openai pillow
+**https://gist.github.com/techenthusiast167/c8de440b76c72e3b4ba73ffdf2110344**
 
-For ChromeDriver issues, you might need to install Chrome browser:
 
-Linux: sudo apt-get install google-chrome-stable
+**Install Dependencies**:
+
+    pip install requests beautifulsoup4  selenium webdriver-manager openai pillow
+
+- For **ChromeDriver** issues, you might need to install Chrome browser:
+
+- **Linux**: sudo apt-get install google-chrome-stable
+  
 - - - 
 
 **Run the application**:
